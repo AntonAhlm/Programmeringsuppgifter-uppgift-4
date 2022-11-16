@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Programmeringsuppgifter uppgift 4", "Programmeringsuppgifter uppgift 4\Programmeringsuppgifter uppgift 4.pyproj", "{B3B40506-CD85-4C79-8247-EB3E13C7E17D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3B40506-CD85-4C79-8247-EB3E13C7E17D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3B40506-CD85-4C79-8247-EB3E13C7E17D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA3D9FF8-CB39-4A2C-96AC-79B8FF9504AC}
+	EndGlobalSection
+EndGlobal
